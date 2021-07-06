@@ -6,10 +6,9 @@ use dial to select an application macro set, press MACROPAD keys to send
 key sequences.
 """
 
-# pylint: disable=import-error, unused-import, too-few-public-methods, eval-used
+# pylint: disable=import-error, unused-import, too-few-public-methods
 
 import os
-import time
 import board
 import digitalio
 import displayio
