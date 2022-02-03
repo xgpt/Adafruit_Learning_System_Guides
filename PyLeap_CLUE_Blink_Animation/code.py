@@ -1,6 +1,6 @@
+import time
 import board
 import neopixel
-import time
 
 pixel = neopixel.NeoPixel(board.NEOPIXEL, 1)
 PURPLE = (10, 0, 25)
